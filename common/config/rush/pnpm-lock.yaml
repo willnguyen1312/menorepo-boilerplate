@@ -17,7 +17,7 @@ importers:
       react: ^17.0.2
       react-dom: ^17.0.2
       react-scripts: 4.0.3
-      typescript: ^4.1.2
+      typescript: ~4.3.5
       web-vitals: ^1.0.1
     dependencies:
       '@testing-library/jest-dom': 5.14.1
@@ -37,7 +37,7 @@ importers:
     specifiers:
       '@vitejs/plugin-vue': ^1.2.4
       '@vue/compiler-sfc': ^3.0.5
-      typescript: ^4.3.2
+      typescript: ~4.3.5
       vite: ^2.4.0
       vue: ^3.0.5
       vue-tsc: ^0.0.24
@@ -7054,7 +7054,7 @@ packages:
       jest-pnp-resolver: 1.2.2_jest-resolve@26.6.0
       jest-util: 26.6.2
       read-pkg-up: 7.0.1
-      resolve: 1.18.1
+      resolve: 1.20.0
       slash: 3.0.0
     dev: false
 
