@@ -392,6 +392,10 @@
     {
       "packageName": "vue-app",
       "projectFolder": "apps/vue-app"
+    },
+    {
+      "packageName": "react-app",
+      "projectFolder": "apps/react-app"
     }
     // {
     //   /**
