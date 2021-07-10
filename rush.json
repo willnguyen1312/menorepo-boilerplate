@@ -110,7 +110,7 @@
      *
      * This option is experimental. The default value is false.
      */
-    // "useWorkspaces": true
+    "useWorkspaces": true
   },
 
   /**
@@ -389,6 +389,10 @@
    * 3. It's useful to have a centralized inventory of all projects and their important metadata.
    */
   "projects": [
+    {
+      "packageName": "vue-app",
+      "projectFolder": "apps/vue-app"
+    }
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
